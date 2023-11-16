@@ -1,0 +1,10 @@
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\bin\Debug\netcoreapp3.1\WebAPIPessoa.Repository.deps.json
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\bin\Debug\netcoreapp3.1\WebAPIPessoa.Repository.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\bin\Debug\netcoreapp3.1\WebAPIPessoa.Repository.pdb
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\WebAPIPessoa.Repository.csproj.AssemblyReference.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\WebAPIPessoa.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\WebAPIPessoa.Repository.AssemblyInfoInputs.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\WebAPIPessoa.Repository.AssemblyInfo.cs
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\WebAPIPessoa.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\WebAPIPessoa.Repository.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\WebAPIPessoa.Repository.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.PessoaController.processarInformacoesPessoa(WebApplication1.pessoaRequest)">
+            <summary>
+            Rota responsavel por realizar processamento de dados de uma pessoa = Calcula idade - Calcula Imc - Calcula inss - Realiza conversao de Real para Dolar
+            </summary>
+            <returns>Retorna os dados processados da pessoa </returns>
+            <response code="200">Retorna os dados processados com sucesso</response>
+            <response code="400">Erro de validação </response>
+        </member>
+    </members>
+</doc>

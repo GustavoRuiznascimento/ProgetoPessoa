@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Front</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <h1>Informações pessoais</h1>
+    <button onclick="verHistorico()">Ver Historico</button>
+
+    <label for="txt_nome">Nome</label>
+    <input type="text" placeholder="Digite seu nome" id="txt_nome" />
+
+    <label for="txt_data">DataNascimento</label>
+    <input type="date" id="txt_data" />
+
+    <label for="txt_altura">Altura</label>
+    <input type="text" placeholder="Digite a altura" id="txt_altura" />
+
+    <label for="txt_peso">peso</label>
+    <input type="text" placeholder="Digite o peso" id="txt_peso" />
+
+    <label for="txt_salario">salario</label>
+    <input type="text" placeholder="Digite o salario" id="txt_salario" />
+
+    <label for="txt_saldo">saldo</label>
+    <input type="text" placeholder="Digite o saldo" id="txt_saldo" />
+
+    <button onclick="chamarApi()">Chamar Api</button>
+
+    <h2>Resultados</h2>
+    <h2 id="resultado_nome"></h2>
+    <h2 id="resultado_idade"></h2>
+    <h2 id="resultado_imc"></h2>
+    <h2 id="resultado_classificacao"></h2>
+    <h2 id="resultado_inss"></h2>
+    <h2 id="resultado_aliquota"></h2>
+    <h2 id="resultado_salario"></h2>
+    <h2 id="resultado_saldodolar"></h2>
+
+</body>
+
+</html>
+
+<script>
+    function verHistorico() {
+        window.location.href = "./historico.html"
+    }
+    function chamarApi() {
+        var token = window.localStorage.getItem('token');
+        processarDadosPessoas(token);
+
+    }
+
+    function processarDadosPessoas(token) {
+        var request = {
+            "Nome": $("#txt_nome").val(),
+            "DataNascimento": $("#txt_data").val(),
+            "altura": parseFloat($("#txt_altura").val()),
+            "peso": parseFloat($("#txt_peso").val()),
+            "Salario": parseFloat($("#txt_salario").val()),
+            "Saldo": parseFloat($("#txt_saldo").val()),
+        }
+        $.ajax({
+            url: "http://localhost:10922/pessoa",
+            type: "POST",
+            data: JSON.stringify(request),
+            contentType: "application/json",
+            dataType: "json",
+            headers: { "Authorization": "Bearer " + token },
+            success: function (resposta) {
+                $("#resultado_nome").text("Nome: " + resposta.nome)
+                $("#resultado_idade").text("Idade: " + resposta.idade)
+                $("#resultado_imc").text("Imc: " + resposta.imc)
+                $("#resultado_classificacao").text("classificacao IMC: " + resposta.classificacao)
+                $("#resultado_inss").text("Valor INSS: " + resposta.inss)
+                $("#resultado_aliquota").text("Aliquota INSS: " + resposta.aliquora)
+                $("#resultado_salario").text("Salario liquido: " + resposta.salarioLiquido)
+                $("#resultado_saldoDolar").text("Saldo Em Dolar: " + resposta.saldoDollar)
+            },
+            error: function (request, message, error) {
+                alert("nao conseguimos se comunicar com back")
+            }
+        })
+    }
+
+</script>

@@ -1,0 +1,13 @@
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\bin\Debug\netcoreapp3.1\WebAPIPessoaApplication.deps.json
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\bin\Debug\netcoreapp3.1\WebAPIPessoaApplication.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\bin\Debug\netcoreapp3.1\WebAPIPessoaApplication.pdb
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\obj\Debug\netcoreapp3.1\WebAPIPessoaApplication.csproj.AssemblyReference.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\obj\Debug\netcoreapp3.1\WebAPIPessoaApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\obj\Debug\netcoreapp3.1\WebAPIPessoaApplication.AssemblyInfoInputs.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\obj\Debug\netcoreapp3.1\WebAPIPessoaApplication.AssemblyInfo.cs
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\obj\Debug\netcoreapp3.1\WebAPIPessoaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\obj\Debug\netcoreapp3.1\WebAPIPessoaApplication.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\obj\Debug\netcoreapp3.1\WebAPIPessoaApplication.pdb
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\bin\Debug\netcoreapp3.1\WebAPIPessoa.Repository.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\bin\Debug\netcoreapp3.1\WebAPIPessoa.Repository.pdb
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\WebAPIPessoaApplication\obj\Debug\netcoreapp3.1\WebAPIPessoaApplication.csproj.CopyComplete

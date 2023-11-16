@@ -1,0 +1,15 @@
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\bin\Debug\net7.0\Projeto 1 C#.exe
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\bin\Debug\net7.0\Projeto 1 C#.deps.json
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\bin\Debug\net7.0\Projeto 1 C#.runtimeconfig.json
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\bin\Debug\net7.0\Projeto 1 C#.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\bin\Debug\net7.0\Projeto 1 C#.pdb
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\Projeto 1 C#.csproj.AssemblyReference.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\Projeto 1 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\Projeto 1 C#.AssemblyInfoInputs.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\Projeto 1 C#.AssemblyInfo.cs
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\Projeto 1 C#.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\Projeto 1 C#.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\refint\Projeto 1 C#.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\Projeto 1 C#.pdb
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\Projeto 1 C#.genruntimeconfig.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\Projeto 1 C#\obj\Debug\net7.0\ref\Projeto 1 C#.dll

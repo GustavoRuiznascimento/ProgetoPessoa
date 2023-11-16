@@ -1,0 +1,14 @@
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\obj\Debug\netcoreapp3.1\pessoa.csproj.AssemblyReference.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\obj\Debug\netcoreapp3.1\pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\obj\Debug\netcoreapp3.1\pessoa.AssemblyInfoInputs.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\obj\Debug\netcoreapp3.1\pessoa.AssemblyInfo.cs
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\obj\Debug\netcoreapp3.1\pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\bin\Debug\netcoreapp3.1\pessoa.exe
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\bin\Debug\netcoreapp3.1\pessoa.deps.json
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\bin\Debug\netcoreapp3.1\pessoa.runtimeconfig.json
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\bin\Debug\netcoreapp3.1\pessoa.runtimeconfig.dev.json
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\bin\Debug\netcoreapp3.1\pessoa.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\bin\Debug\netcoreapp3.1\pessoa.pdb
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\obj\Debug\netcoreapp3.1\pessoa.dll
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\obj\Debug\netcoreapp3.1\pessoa.pdb
+C:\Users\Gustavo Ruiz\Documents\Projetos C#\pessoa\pessoa\obj\Debug\netcoreapp3.1\pessoa.genruntimeconfig.cache
